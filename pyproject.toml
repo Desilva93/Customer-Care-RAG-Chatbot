@@ -1,6 +1,5 @@
 [project]
-name = "rag-telecom-chatbot"
-version = "0.1.0"
+name = "Customer-Care-RAG-Chatbot"
 description = "RAG-based telecom customer care chatbot tutorial"
 requires-python = ">=3.11"
 dependencies = [
