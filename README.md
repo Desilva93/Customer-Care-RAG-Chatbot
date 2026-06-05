@@ -1,4 +1,4 @@
-# RAG Telecom Chatbot
+# Customer-Care-RAG-Chatbot
 
 A Retrieval-Augmented Generation (RAG) customer care chatbot for telecom support. It answers questions about mobile connectivity, billing, SIM issues, and roaming by retrieving relevant context from three knowledge sources and generating responses with Qwen3-32B via Groq.
 
@@ -23,7 +23,7 @@ ChatPromptTemplate → Qwen3-32B (Groq) → Answer
 ## Project Structure
 
 ```
-rag-telecom-chatbot/
+Customer-Care-RAG-Chatbot/
 ├── app.py              # Streamlit web UI
 ├── main.py             # CLI entry point
 ├── rag_chain.py        # Builds the LangChain RAG chain
@@ -53,21 +53,21 @@ rag-telecom-chatbot/
 
 ```bash
 git clone <repo-url>
-cd rag-telecom-chatbot
+cd Customer-Care-RAG-Chatbot
 uv sync          # or: pip install -e .
 ```
 
 **2. Configure environment variables**
 
 ```bash
-cp .env.example .env
+cp .env
 ```
 
-Edit `.env` and fill in your keys:
+Edit `.env` and fill in with actual keys:
 
 ```
-GROQ_API_KEY=your_groq_api_key_here
-HF_TOKEN=your_huggingface_token_here
+GROQ_API_KEY=groq_api_key_here
+HF_TOKEN=huggingface_token_here
 ```
 
 **3. Ingest data into Chroma**
