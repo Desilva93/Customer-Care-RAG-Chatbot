@@ -1,6 +1,6 @@
 [project]
 name = "Customer-Care-RAG-Chatbot"
-description = "RAG-based telecom customer care chatbot tutorial"
+description = "AI-powered Telecom Customer Care Assistant using RAG, LangChain, ChromaDB, HuggingFace Embeddings, and Groq Qwen3-32B for intelligent customer support."
 requires-python = ">=3.11"
 dependencies = [
     "langchain",
