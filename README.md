@@ -39,8 +39,10 @@ Customer-Care-RAG-Chatbot/
 │   ├── faq.csv             # FAQ question/answer pairs
 │   ├── tickets.db          # SQLite database of resolved support tickets
 │   ├── telecom_guide.pdf   # Telecom user guide (chunked at ingest)
+├── Demo.png                # Showcase the UI with customer interaction
 ├── chroma_store/           # Persisted Chroma vector database (created at ingest)
 ├── pyproject.toml
+├── uv.lock
 └── .env
 ```
 
