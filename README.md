@@ -2,6 +2,10 @@
 
 A Retrieval-Augmented Generation (RAG) customer care chatbot for telecom support. It answers questions about mobile connectivity, billing, SIM issues, and roaming by retrieving relevant context from three knowledge sources and generating responses with Qwen3-32B via Groq.
 
+## 📸 Demo
+
+![Telecom Customer Care Assistant](Demo.png)
+
 ## Architecture
 
 ```
