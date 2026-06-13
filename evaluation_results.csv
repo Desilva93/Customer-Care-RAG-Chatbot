@@ -1,0 +1,313 @@
+question,expected_answer,generated_answer,source
+How do I check my current data balance?,Dial *123# or use the MyTelecom app and open My Usage.,"To check your current data balance, you can:  
+1. **Dial `*123#`** from your mobile device.  
+2. **Use the MyTelecom app**: Log in > Go to **My Usage** > Your remaining data balance will be displayed on the dashboard.  
+
+Let me know if you need further assistance!",FAQ
+Why is my mobile internet so slow?,Slow speeds may be caused by congestion weak signal or data throttling.,"Your slow mobile internet could be due to several common factors. Here’s how to troubleshoot:  
+
+1. **Check Network Congestion**:  
+   - If you're in a busy area (e.g., city center), network congestion may reduce speeds. Try again later or move to a less crowded location.  
+
+2. **Toggle Airplane Mode**:  
+   - Turn Airplane Mode **on** for 10 seconds, then **off** to force a network reconnect. This can resolve temporary connectivity issues.  
+
+3. **Verify Data Usage**:  
+   - If you’ve exceeded your high-speed data cap, your speed may be throttled to 512 kbps. Check your usage via the **MyTelecom app** or by texting ""USAGE"" to 611.  
+
+4. **Ensure 4G/LTE is Enabled**:  
+   - Go to **Settings > Mobile Network > Preferred Network Type** and select **4G/LTE**. If unsure, contact us to confirm your SIM and plan support 4G.  
+
+5. **Reset APN Settings**:  
+   - If switching between 3G/4G causes issues, reset your Access Point Name (APN) to default:  
+     - **Settings > Mobile Network > APN > Reset to Default**.  
+     - Use the default APN: `internet.telecom.example`.  
+
+6. **Check Coverage**:  
+   - Use our [coverage map](telecom.example.com/coverage) to confirm signal strength in your area. If coverage is poor, consider a signal booster or Wi-Fi alternative.  
+
+If these steps don’t resolve the issue, call **611** for a network investigation. For 5G users, ensure your device and plan support 5G (check with us).",FAQ
+How do I activate 4G LTE on my phone?,Enable 4G LTE in Mobile Network settings and ensure your plan supports LTE.,"To activate 4G/LTE on your phone, follow these steps:  
+
+1. Open **Settings** > **Mobile Network** > **Preferred Network Type**.  
+2. Select **4G/LTE** from the options.  
+
+Ensure your SIM card supports 4G and your plan includes 4G access (check your plan details or contact us if unsure). If the **4G/LTE** option does not appear, call **611** to verify your device compatibility and account settings.  
+
+Let me know if you need further assistance!",FAQ
+What should I do if I have no signal at home?,Check coverage and try troubleshooting steps or contact support.,"If you have no signal at home, follow these steps:  
+
+1. **Check Coverage**: Verify coverage in your area using our [coverage map](telecom.example.com/coverage).  
+2. **Restart Your Device**: Power off your phone, wait 30 seconds, then turn it back on.  
+3. **Reseat the SIM Card**: Power off your device, remove the SIM, clean the contacts with a dry cloth, and reinsert it firmly.  
+4. **Check for Outages**: Use the **MyTelecom app** (*Help > Network Status*) or our [live status page](telecom.example.com/status) to see if there’s a known outage in your area.  
+5. **Test Signal Strength**: On Android, use a network signal app; on iOS, dial `*3001#12345#*` to view signal levels. A reading above -85 dBm is good.  
+6. **Try Another Device/SIM**: Test with a different phone or SIM to determine if the issue is device-specific.  
+
+If the problem persists after these steps, **call 611** or use the **MyTelecom app** (*Help > Report an Issue*). Provide your location and details about when the issue occurs. Our network team will investigate further.",FAQ
+How do I report a network outage?,Call 611 or use the MyTelecom app to report the outage.,"You can report a network outage by:  
+1. Calling **611**  
+2. Using the **MyTelecom app** (Help > Report an Issue)  
+3. Tweeting **@TelecomSupport**  
+
+We’ll notify you via SMS once the outage is resolved.",FAQ
+My calls keep dropping what should I do?,Check signal strength SIM condition and device health.,"If your calls keep dropping, follow these steps to troubleshoot:  
+
+1. **Restart your phone** to refresh the network connection.  
+2. **Reseat the SIM card**: Power off your device, remove the SIM, clean its contacts with a dry cloth, and reinsert it firmly.  
+3. **Test with another SIM** (if possible) to rule out a faulty SIM card.  
+4. **Check for network outages** using the MyTelecom app or website.  
+5. **Enable Wi-Fi Calling** (if available on your plan): Go to *Settings > Phone > Wi-Fi Calling* and toggle it on.  
+
+If the issue persists after these steps, call **611** for further assistance.",FAQ
+How do I enable Wi-Fi calling?,Enable Wi-Fi Calling in phone settings.,"To enable Wi-Fi calling on your device:  
+1. Go to **Settings** > **Phone** > **Wi-Fi Calling**.  
+2. Toggle the **Wi-Fi Calling** option to **On**.  
+
+Wi-Fi calling allows you to make and receive calls over a Wi-Fi network when cellular signal is weak. Ensure your plan includes this feature. If it’s not enabled on your account, call **611** to add it. Let me know if you need further assistance!",FAQ
+Why am I unable to make international calls?,Enable international calling on your account first.,"To make international calls, you need to ensure **international calling is enabled** on your account. Here's how to resolve this:
+
+1. **Enable International Calling**:  
+   Log in to the [MyTelecom portal](https://www.telecom.example.com), navigate to **Add-ons > International Calling**, and activate the service. This feature is not enabled by default.
+
+2. **Check Billing**:  
+   International calls are billed at per-minute rates by country unless you purchase an international calling bundle (available in the same section).
+
+If you’ve already enabled the feature but still cannot make calls, there may be an issue with your account settings or regional restrictions. For further assistance, call **611** (free from your mobile) or use the **MyTelecom app** for live chat support.",FAQ
+How do I activate international roaming?,Enable roaming in MyTelecom or call 611.,"To activate international roaming, follow these steps:  
+
+1. Log in to the **MyTelecom app** or website.  
+2. Navigate to **Plan & Services > International Roaming**.  
+3. Toggle the **International Roaming** option to ""On"" **at least 24 hours before your travel date**.  
+4. Select a **roaming bundle** (optional but recommended) to avoid per-MB charges.  
+
+Roaming will be automatically disabled when you return home. If you need further assistance, call **611** or check the coverage map for your destination to ensure partner network availability.",FAQ
+What are the roaming charges in the EU?,EU roaming bundle costs $15 per day and includes calls texts and data.,"The roaming charges in the EU are as follows:  
+
+- **EU Roaming Bundle**: $15/day, which includes unlimited calls and texts within the EU, plus 2 GB of data at local speeds.  
+- **Without a bundle**: Data is charged at **$10/MB**, and calls at **$1.50/minute**.  
+
+To avoid unexpected charges, ensure the **EU Roaming Bundle** is activated **at least 24 hours before travel** via the MyTelecom app (Plan & Services > International Roaming). Roaming is automatically disabled when you return home.  
+
+For detailed billing, check your **Itemised Bill** in the MyTelecom app if you notice discrepancies.",FAQ
+What signal level is considered good?,A signal above -85 dBm is considered good.,"A signal level above **-85 dBm** is considered good. Here's the breakdown:  
+- **Good**: Above -85 dBm  
+- **Marginal**: Between -85 dBm and -100 dBm  
+- **Poor**: Below -100 dBm  
+
+To check your signal strength:  
+- **iOS**: Dial `*3001#12345#*` to view network information (including signal level in dBm).  
+- **Android**: Use a network signal app or check the status bar for signal bars (though dBm is more precise).  
+
+If your signal is weak (below -100 dBm), try moving closer to a window or higher floor. If the issue persists, check for network outages via the [MyTelecom app](https://mytelecom.example.com) or contact **611** for further assistance.",Guide
+What should I do first when troubleshooting connectivity issues?,Verify signal strength before other troubleshooting steps.,"When troubleshooting connectivity issues, the first step is to **verify signal strength** on your device. Check the signal bars in your phone's status bar or use a network signal app (Android) or dial *3001#12345#* (iOS) to view the raw signal level in dBm. A signal above -85 dBm is good; between -85 and -100 dBm is marginal; below -100 dBm is poor. If the signal is weak, try moving closer to a window or to a higher floor. 
+
+If signal strength is adequate, next **check our coverage map** at [telecom.example.com/coverage](telecom.example.com/coverage) to confirm coverage in your area. If coverage is shown as good, restart your phone and re",Guide
+How can I refresh my network connection?,Toggle airplane mode on and off to force network re-registration.,"To refresh your network connection, follow these steps:
+
+1. **Toggle Airplane Mode**:  
+   - Turn **Airplane Mode** on for 10 seconds, then turn it off. This forces your device to re-register with the network and resolves many temporary issues.
+
+2. **Check for Network Outages**:  
+   - Use the **MyTelecom app** (Help > Network Status) or visit [telecom.example.com/status](https://telecom.example.com/status) to confirm if there’s an outage in your area. If there is, wait for resolution.
+
+3. **Reset APN Settings**:  
+   - Go to **Settings > Mobile Network > APN**.  
+   - Set the APN name to `internet.telecom.example` (default setting). Leave username and password fields blank unless specified otherwise.
+
+4. **Inspect the SIM Card**:  
+   - Power off your device.  
+   - Remove the SIM, clean the gold contacts with a dry cloth, and reseat it firmly.
+
+If these steps don’t resolve the issue, call **611** to escalate for a network investigation.",Guide
+What causes data connectivity failure after a SIM swap?,Incorrect APN settings are a common cause.,"Data connectivity failure after a SIM swap can occur due to the following reasons, based on our documentation:  
+
+1. **Incorrect APN Settings**: The new SIM may require specific Access Point Name (APN) configurations. If these settings are not properly set (e.g., after a SIM swap or device reset), data connectivity will fail.  
+   - *Solution*: Verify APN settings match `internet.telecom.example` (as per [Ticket: No internet access](#)).  
+
+2. **Improperly Seated or Damaged SIM**: A partially inserted or damaged SIM can cause intermittent or complete connectivity loss.  
+   - *Solution*: Power off the device, clean the SIM contacts, and reseat it firmly ([Guide: Step 4](#)).  
+
+3. **Network Registration Issues**: The device may fail to re-register on the network after the SIM swap.  
+   - *Solution*: Toggle airplane mode on/off for 10 seconds to force re-registration ([Guide: Step 2](#)).  
+
+4. **SIM Provisioning Errors**: The new SIM might not be properly activated or provisioned for data services.  
+   - *Solution*: Remote SIM provisioning via our system may be required ([Ticket: SIM not recognized after update](#)).  
+
+5. **Network Outages or Localized Issues**: Temporary outages or faulty infrastructure (e.g., tower antenna issues) can disrupt connectivity.  
+   - *Solution*: Check our live network status page or app for outages ([Guide: Step 5](#)).  
+
+If these steps do not resolve the issue, escalate for a network investigation ([Guide: Step 7](#)). For immediate assistance, call **611** or use the **MyTelecom app**.",Guide
+What should I do if my SIM is partially seated?,Remove clean and reseat the SIM card.,"If your SIM is partially seated, follow these steps:  
+
+1. **Power off your device** completely.  
+2. **Remove the SIM card** and inspect it for damage.  
+3. **Clean the gold contacts** on the SIM with a dry, soft cloth.  
+4. **Reinsert the SIM firmly** into the tray, ensuring it clicks into place.  
+5. **Power on the device** and check if connectivity is restored.  
+
+If the issue persists:  
+- Test the SIM in another device to rule out a faulty SIM.  
+- Try a different SIM in your original device to check for a damaged SIM slot.  
+
+If problems continue after these steps, contact us at 611 for further assistance.",Guide
+What happens when high-speed data allowance is exhausted?,Speed is throttled typically to 512 kbps on standard plans.,"When your high-speed data allowance is exhausted, the following occurs based on your plan type:
+
+1. **Standard Data Plans**:  
+   - Your internet speed is **throttled to 512 kbps** for the remainder of the billing cycle. This allows basic web browsing and messaging but is unsuitable for video streaming or large downloads.  
+   - You can purchase **add-on data packs** (available in the MyTelecom app) to restore full speeds temporarily. These packs are valid until the end of the current billing cycle but do not roll over unused data.
+
+2. **Unlimited Data Plans**:  
+   - Subject to a **Fair Use Policy (FUP)**. If you exceed 100 GB of data in a cycle, you may be **deprioritized** during network congestion (e.g., on busy cell towers). This deprioritization is temporary and does not affect uncongested areas.  
+   - Speeds remain unrestricted unless deprioritization applies.
+
+**Additional Notes**:  
+- Throttled speeds (512 kbps) are permanent for standard plans until the next billing cycle or until you add an extra data pack.  
+- For clarity on your current data balance, check the **My Usage** section in the MyTelecom app or dial *123#.  
+
+If you believe your usage is being miscounted or need further assistance, contact us at 611 or via the app.",Guide
+What is the Fair Use Policy threshold for unlimited plans?,Customers using more than about 100 GB may be deprioritised.,"The Fair Use Policy (FUP) threshold for unlimited plans is **100 GB per billing cycle**. Customers who exceed this data volume may experience temporary deprioritization (throttling) during periods of network congestion. This deprioritization is localized to congested cells and does not affect all areas. High-speed data remains available for typical usage below this threshold. For real-time data tracking, use the MyTelecom app.",Guide
+How can I activate roaming before travel?,Use MyTelecom app or call 611 before departure.,"To activate international roaming before your trip, follow these steps:
+
+1. **Log in to the MyTelecom app**  
+   Navigate to **Plan & Services > International Roaming** and toggle it **on at least 24 hours before departure**.
+
+2. **Select a Roaming Bundle**  
+   Choose a bundle for your destination to avoid high per-usage charges (e.g., EU, Asia-Pacific, or global options). Bundles include data, calls, and texts.
+
+3. **Confirm Activation**  
+   Roaming settings take up to **15 minutes** to apply network-wide. If you don’t see the option in the app, call **611** for assistance.
+
+⚠️ **Important**: Ensure your plan includes international roaming (check in the app) and verify coverage for your destination using Telecom’s map. Always enable roaming **before leaving home** to avoid service gaps.",Guide
+What are common reasons for roaming failure?,Roaming not enabled incorrect network selection or unsupported destination.,"Based on our technical documentation and resolved cases, the **three most common reasons for roaming failures** are:
+
+1. **Roaming Not Enabled**  
+   - International roaming must be explicitly activated in your account (via MyTelecom or customer care) **at least 24 hours before travel**. If disabled, your device won’t connect to foreign networks.
+
+2. **Device Not Set to Automatic Network Selection**  
+   - Manual network selection can prevent your phone from finding compatible roaming partners. Ensure your device is set to **""Automatic"" network selection** (Settings > Mobile Network > Network Selection).
+
+3. **Country Not Covered by Roaming Agreements**  
+   - We only provide roaming services in countries with active partner networks. Always check the **Telecom coverage map** for international roaming availability before traveling.
+
+Additional notes:  
+- Roaming permissions may be restricted to specific regions (e.g., EU-only by default). If traveling outside your assigned zone, contact us to extend coverage.  
+- Roaming bundles must be activated **before** using data/voice to avoid high per-usage charges.  
+
+For immediate assistance, call 611 or use the MyTelecom app.",Guide
+What is eSIM?,A programmable embedded SIM that can be activated digitally.,"An **eSIM** (embedded SIM) is a chip soldered directly into a device during manufacturing, replacing the need for a physical SIM card. It can be programmed remotely (""over the air"") using a QR code or activation code provided by a carrier. Key features include:
+
+- **No physical card**: The eSIM is built into the device and cannot be removed.
+- **Multiple profiles**: It can store multiple carrier profiles simultaneously, allowing users to switch between carriers or maintain separate lines (e.g., a local SIM while roaming) without swapping physical cards.
+- **Activation**: Requires scanning a QR code or entering an activation code to load the carrier profile.
+
+eSIMs are common in flagship smartphones (since ~2020), tablets, and IoT devices. They offer greater flexibility compared to traditional SIMs, though they still rely on carrier support for provisioning. For example, if activation fails (as in one support case), a fresh QR code may be required.",Guide
+How do I enable VoLTE on Android?,Go to Mobile Network settings and enable VoLTE.,"To enable VoLTE on your Android device, follow these steps:
+
+1. **Check Compatibility**: Ensure your device and SIM card support VoLTE. Most modern Android devices are compatible, but some older or parallel-import models may not be (refer to the [FAQ](#) or check the [VoLTE whitelist](#) if unsure).
+
+2. **Enable VoLTE**:
+   - Go to **Settings > Mobile Network > VoLTE**.
+   - Toggle the **VoLTE** option **on**.
+
+3. **Troubleshooting**:
+   - If the **VoLTE** option is **greyed out** or missing:
+     - Confirm your plan includes VoLTE (check via the MyTelecom app or call 611).
+     - Ensure your device is compatible (some devices require a carrier-specific firmware update).
+     - Contact Telecom support (611) to remotely check/push the VoLTE profile to your SIM.
+
+**Note**: VoLTE allows HD voice calls over 4G LTE. If enabled successfully, your device will prioritize 4G for calls while maintaining data usage. If issues persist, visit a Telecom store for further assistance.",Guide
+What is VoWiFi?,Voice calls made through Wi-Fi using IMS technology.,"VoWiFi, also known as Wi-Fi Calling, is a technology that allows you to make and receive voice calls over a Wi-Fi network instead of a cellular network. It is part of the IP Multimedia Subsystem (IMS) and works similarly to VoLTE but uses Wi-Fi connectivity. Here's what you need to know:
+
+- **How it works**: VoWiFi routes voice calls as data packets over any Wi-Fi network (e.g., home, public hotspots), enabling calls even in areas with weak cellular coverage.  
+- **Seamless handoff**: Calls can transition smoothly between Wi-Fi and cellular networks without dropping.  
+- **Emergency calls**: For safety, emergency calls over VoWiFi require you to register a physical address for location accuracy.  
+- **Use case**: Ideal for indoor or rural areas where cellular signals are poor.  
+
+This service is often paired with VoLTE for HD voice quality and faster call setup. If you need help enabling VoWiFi, check your device settings under ""Wi-Fi Calling"" or contact support via 611.",Guide
+What causes duplicate charges on customer bills?,Payment gateway retries during network timeouts may cause duplicate charges.,"Duplicate charges on bills are typically caused by **payment gateway retries** during network timeouts or connectivity issues. For example, if a payment processing system retries a transaction due to a temporary network disruption, it may inadvertently create a duplicate charge. Our system uses idempotency keys to detect and prevent duplicates, but in rare cases, manual intervention is required to reverse the extra charge (as seen in a past support case where a customer was double-charged for their monthly plan). 
+
+If you notice duplicate charges, check your **itemized bill** (via the MyTelecom app) to confirm, and contact us at 611 or submit a support request for resolution. Refunds for confirmed duplicates are typically processed within 3–5 business days.",Guide
+What is SIM swap fraud?,Fraudsters transfer a number to another SIM to intercept messages.,"SIM swap fraud occurs when a fraudster deceives a carrier into transferring a victim’s phone number to a new SIM card under their control. This allows the attacker to intercept SMS-based two-factor authentication (2FA) codes, phishing messages, or other sensitive communications.  
+
+**Key details from our policies:**  
+1. **How it happens**: Fraudsters often impersonate the victim by providing personal information obtained through phishing or data breaches.  
+2. **Prevention**:  
+   - Strict identity verification is required for SIM replacement requests (e.g., in-store: government-issued photo ID; remote: multi-factor identity checks).  
+   - Accounts with recent SIM swaps are flagged for elevated fraud monitoring for 30 days.  
+3. **Mitigation**: If you suspect unauthorized activity on your account, contact us immediately at 611 to secure your account.  
+
+Always protect your personal information and monitor your account for unexpected changes.",Guide
+How should agents verify customer identity?,Verify name date of birth and account credentials before sharing information.,"Agents must verify customer identity using the following procedures:
+
+1. **Minimum Verification Requirements** (per Data Privacy guidelines, Page 9):
+   - Confirm the account holder's **full name**, **date of birth**, and **account password** OR the **last four digits of the payment card on file**.
+
+2. **Additional Checks for Sensitive Actions** (per SIM Swap Fraud guidelines, Page 6):
+   - For **SIM replacement requests**: 
+     - **In-store**: Require a government-issued photo ID for verification.
+     - **Remote requests**: Use **multi-factor identity confirmation** (e.g., security questions, one-time codes sent to a trusted device/email).
+
+3. **General Protocol**:
+   - Always follow data protection regulations during verification.
+   - If identity cannot be confirmed, escalate to a supervisor or deny the request to prevent fraud (e.g., SIM swap attacks).
+
+These steps ensure compliance with security policies and protect customers from unauthorized access.",Guide
+Customer lost internet after switching phones. What resolved the issue?,Airplane mode reset and APN reset restored internet access.,"The issue was resolved by resetting the APN (Access Point Name) settings to the default configuration (""internet.telecom.example"") and toggling airplane mode to force a network reconnection. This is a common fix when switching devices, as new phones often require correct APN settings for data connectivity. 
+
+**Steps taken:**  
+1. Toggle airplane mode on/off to restart network registration.  
+2. Reset APN settings to the carrier's default values (Settings > Mobile Network > APN).  
+
+No further action was needed once these steps were completed.",Ticket
+What caused intermittent signal drops in a suburban area?,A faulty sector antenna on a nearby tower caused the issue.,"Intermittent signal drops in a suburban area, as documented in a resolved case, were caused by a **faulty sector antenna on the nearest cell tower**. The network team applied a temporary remote fix and scheduled hardware replacement within 48 hours. 
+
+### Recommended Steps for Suburban Signal Drops:
+1. **Check Coverage Map**: Verify your area has adequate coverage at [telecom.example.com/coverage](telecom.example.com/coverage).  
+2. **Restart Device & Reseat SIM**: Power cycle your phone and ensure the SIM card is properly seated.  
+3. **Signal Strength Check**: Use a signal app or dial `*3001#12345#*` (iOS) to check dBm levels. If below -100 dBm, move closer to a window or higher floor.  
+4. **Report Persistent Issues**: If drops continue, call **611** to trigger a network investigation.  
+
+For planned maintenance or outages, check the [MyTelecom app](telecom.example.com/status) for updates.",Ticket
+Why did a customer's data balance not update after purchasing an add-on?,A billing synchronization delay caused the issue.,"The data balance not updating after purchasing an add-on is typically due to a **billing system sync delay** (commonly 30 minutes) or a cached app session. Here’s how to resolve it:
+
+1. **Wait 30 minutes** for the system to sync automatically.  
+2. If unresolved, **clear the app cache** in the MyTelecom app or log out and back in.  
+3. If still no update, **refresh the session token** via the backend (this requires telecom staff intervention).  
+
+If the balance remains incorrect after these steps, advise the customer to call **611** for immediate assistance or check the balance using the **\*123#** dial code for real-time confirmation.",Ticket
+Why was a customer charged extra while roaming in Spain?,The roaming bundle was activated after roaming usage had already begun.,"The customer was charged extra while roaming in Spain because their **roaming bundle was activated 3 hours after their first data session abroad**. Usage prior to the bundle activation was billed at standard roaming rates ($10/MB for data, $1.50/minute for calls) instead of the bundled rate. This delay in activation led to higher charges until the bundle took effect. 
+
+**Key details from the context:**
+- Roaming bundles must be activated **at least 24 hours before travel** (per FAQ).
+- Pre-bundle usage is **not reversed** and is charged at standard rates (per GUIDE).
+- The support team offered a **50% goodwill credit** ($30) for the pre-bundle charges in this case (per TICKET resolution).
+
+To avoid this, customers should ensure bundles are activated **before** using any data/voice abroad.",Ticket
+How was a SIM not recognised after a phone update fixed?,The SIM was remotely reprovisioned through the BSS system.,"In a past case where a customer experienced a ""SIM not provisioned"" error after updating their Android phone, the issue was resolved by **soft-provisioning the SIM remotely via the BSS (Billing and Service System)**. This process re-established the SIM's configuration without requiring the customer to visit a store, and the error was fixed within 10 minutes. 
+
+If you're facing a similar issue, contact **611** so we can check if remote provisioning or other troubleshooting steps are needed.",Ticket
+What caused a customer to be charged twice for a monthly plan?,A payment gateway retry created a duplicate charge.,"A customer was charged twice for their monthly plan due to a **duplicate charge caused by a payment gateway retry** during a network timeout. This is illustrated in a past support ticket where the customer’s bank statement showed two identical charges of $45 on the same date. The resolution confirmed only one payment was received by the company, and the duplicate was refunded within 3–5 business days.
+
+**Key takeaway:** Payment gateway issues (e.g., retries during network timeouts) can lead to accidental duplicate charges. If this occurs, customers should check their MyTelecom app for payment confirmations and contact support to request a refund.",Ticket
+Why were incoming calls going directly to voicemail?,Call barring had been enabled on the account.,"Incoming calls going directly to voicemail could be due to **call barring** being activated on your account. This feature, when enabled, blocks incoming calls without notifying the user. In a similar case, call barring was unknowingly active, and deactivating it resolved the issue. 
+
+To check or adjust this:
+1. Dial `*#*#4636#*#*` to open the ""Testing"" menu.
+2. Select **Call Barring** and check if ""Incoming Calls"" is barred.
+3. If barred, enter your current call barring PIN to unbar it (default PIN is often `0000` or `1234`, but this varies).
+
+If you don’t recognize any barring settings, contact us at 611 or use the MyTelecom app to review your account settings. Also, ensure your phone isn’t in ""Do Not Disturb"" mode or set to ""Power Saving Mode,"" which can sometimes interfere with call routing.",Ticket
+Why were 4G speeds below 1 Mbps in one case?,The local cell was congested during peak hours.,"In the case where 4G speeds dropped below 1 Mbps, the root cause was **network congestion** in the customer's city center location during peak hours (5–8 PM). The local cell tower was overloaded with traffic, limiting available bandwidth. 
+
+The resolution involved enabling **carrier aggregation** on the customer's account, which allowed their device to utilize a secondary frequency band alongside the primary one. This increased the total data throughput, restoring speeds to 12–18 Mbps in follow-up tests.
+
+If you're experiencing similar slow speeds, check if you're in a high-traffic area during peak times. If the issue persists, contact support to investigate carrier aggregation eligibility or other optimizations.",Ticket
+Why did eSIM activation fail for one customer?,The QR code had expired after a failed activation attempt.,"The eSIM activation failed for the customer because the QR code they were using had a **single-use expiry** that was triggered during an initial failed attempt. When they tried scanning the QR code, the failure caused the code to become invalid. 
+
+**Resolution**: The support team generated a **fresh eSIM provisioning code** via the eSIM portal and emailed it to the customer. The customer successfully activated the eSIM using the new code on their second attempt.
+
+If you're experiencing eSIM activation issues, ensure you use the latest provisioning code provided by your carrier. If problems persist, contact support for assistance.",Ticket
+Why could a customer not download an itemised bill?,A known portal bug affected accounts with many billing events.,"A customer might be unable to download an itemised bill due to a known bug in the web portal when their account has **more than 500 itemised events per billing cycle** (e.g., frequent calls, SMS, or data sessions). In such cases, the download button may spin indefinitely. 
+
+As a workaround, the support team can manually send the itemised bill as a password-protected PDF via email. If you're experiencing this issue, contact **611** or use the **MyTelecom app** (navigate to *Billing > Download Bill*) as an alternative. Let me know if you'd like further assistance!",Ticket

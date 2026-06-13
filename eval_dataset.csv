@@ -1,0 +1,36 @@
+question,expected_answer,source
+How do I check my current data balance?,Dial *123# or use the MyTelecom app and open My Usage.,FAQ
+Why is my mobile internet so slow?,Slow speeds may be caused by congestion weak signal or data throttling.,FAQ
+How do I activate 4G LTE on my phone?,Enable 4G LTE in Mobile Network settings and ensure your plan supports LTE.,FAQ
+What should I do if I have no signal at home?,Check coverage and try troubleshooting steps or contact support.,FAQ
+How do I report a network outage?,Call 611 or use the MyTelecom app to report the outage.,FAQ
+My calls keep dropping what should I do?,Check signal strength SIM condition and device health.,FAQ
+How do I enable Wi-Fi calling?,Enable Wi-Fi Calling in phone settings.,FAQ
+Why am I unable to make international calls?,Enable international calling on your account first.,FAQ
+How do I activate international roaming?,Enable roaming in MyTelecom or call 611.,FAQ
+What are the roaming charges in the EU?,EU roaming bundle costs $15 per day and includes calls texts and data.,FAQ
+What signal level is considered good?,A signal above -85 dBm is considered good.,Guide
+What should I do first when troubleshooting connectivity issues?,Verify signal strength before other troubleshooting steps.,Guide
+How can I refresh my network connection?,Toggle airplane mode on and off to force network re-registration.,Guide
+What causes data connectivity failure after a SIM swap?,Incorrect APN settings are a common cause.,Guide
+What should I do if my SIM is partially seated?,Remove clean and reseat the SIM card.,Guide
+What happens when high-speed data allowance is exhausted?,Speed is throttled typically to 512 kbps on standard plans.,Guide
+What is the Fair Use Policy threshold for unlimited plans?,Customers using more than about 100 GB may be deprioritised.,Guide
+How can I activate roaming before travel?,Use MyTelecom app or call 611 before departure.,Guide
+What are common reasons for roaming failure?,Roaming not enabled incorrect network selection or unsupported destination.,Guide
+What is eSIM?,A programmable embedded SIM that can be activated digitally.,Guide
+How do I enable VoLTE on Android?,Go to Mobile Network settings and enable VoLTE.,Guide
+What is VoWiFi?,Voice calls made through Wi-Fi using IMS technology.,Guide
+What causes duplicate charges on customer bills?,Payment gateway retries during network timeouts may cause duplicate charges.,Guide
+What is SIM swap fraud?,Fraudsters transfer a number to another SIM to intercept messages.,Guide
+How should agents verify customer identity?,Verify name date of birth and account credentials before sharing information.,Guide
+Customer lost internet after switching phones. What resolved the issue?,Airplane mode reset and APN reset restored internet access.,Ticket
+What caused intermittent signal drops in a suburban area?,A faulty sector antenna on a nearby tower caused the issue.,Ticket
+Why did a customer's data balance not update after purchasing an add-on?,A billing synchronization delay caused the issue.,Ticket
+Why was a customer charged extra while roaming in Spain?,The roaming bundle was activated after roaming usage had already begun.,Ticket
+How was a SIM not recognised after a phone update fixed?,The SIM was remotely reprovisioned through the BSS system.,Ticket
+What caused a customer to be charged twice for a monthly plan?,A payment gateway retry created a duplicate charge.,Ticket
+Why were incoming calls going directly to voicemail?,Call barring had been enabled on the account.,Ticket
+Why were 4G speeds below 1 Mbps in one case?,The local cell was congested during peak hours.,Ticket
+Why did eSIM activation fail for one customer?,The QR code had expired after a failed activation attempt.,Ticket
+Why could a customer not download an itemised bill?,A known portal bug affected accounts with many billing events.,Ticket
