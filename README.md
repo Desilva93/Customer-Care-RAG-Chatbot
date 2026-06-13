@@ -128,3 +128,24 @@ python data/generate_pdf.py
 
 After regenerating, re-run the corresponding ingest script.
 
+
+## Evaluation
+
+The RAG system was evaluated using a benchmark dataset of **35+ telecom support queries** spanning FAQs, resolved support tickets, and telecom user guide content.
+
+### Evaluation Methodology
+
+* Created a benchmark dataset containing representative telecom customer support questions.
+* Generated responses using the complete RAG pipeline (Retriever + Qwen3-32B).
+* Compared generated responses against reference answers using semantic similarity scoring.
+* Performed experiment tracking and response analysis using LangSmith.
+* Assessed response quality using RAGAS-style metrics, including Faithfulness and Answer Relevancy.
+
+### Evaluation Metrics
+
+| Metric                      | Score    |
+| --------------------------- | -------- |
+| Average Semantic Similarity | **0.61** |
+| Faithfulness                | **0.61** |
+| Answer Relevancy            | **0.70** |
+
